@@ -1,0 +1,5 @@
+udev 
+video group
+
+#this can turn off the screen
+xset dpms force off
